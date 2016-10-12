@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to bottom, gray, white);
+}
+
+h1 {
+  font-style: italic;
+  color: blue;
+}
+
+img {
+  border: 10px solid green;
+  border-radius: 10px;
+}
+
+.headers {
+  color: red;
+}
