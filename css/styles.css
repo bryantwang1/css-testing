@@ -10,8 +10,21 @@ h1 {
 img {
   border: 10px solid green;
   border-radius: 10px;
+  margin: 10px;
+  filter: drop-shadow(50px 50px 16px blue);
+  transform: rotate(90deg);
+  float:top;
 }
 
 .headers {
   color: red;
+}
+
+h2 {
+  transform: rotate(180deg);
+}
+
+h3 {
+  height: 50px;
+  background-color: brown
 }
